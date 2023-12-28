@@ -1,1 +1,1 @@
-Python projects done as part of university modules (Multivariate Calculus, Mathematical Modelling, Abstract Algebra)
+Python projects done as part of some of my second year university modules (Multivariate Calculus, Mathematical Modelling, Abstract Algebra)
